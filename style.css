@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px;
+}
+tr{
+    background: green;
+    padding: 5px;
+    
+    
+}
+td{
+    background: #6af06a;
+    border:1px solid white;
+    padding: 18px;
+    vertical-align: top;
+    text-align: left;
+}
+    
+th{
+    color: white;
+    background: #389c3c;
+}
+.green{
+    background: #048504;
+    color: white;
+    
+    
+    
+}
+.invisible{
+    background: white;
+}
+.last1{
+    background: white;
+}.last{
+    background: white;
+    color:green;
+    font-size: 15px;
+    
+}
+
+
+
+
+
+
+
